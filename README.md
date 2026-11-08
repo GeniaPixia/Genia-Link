@@ -39,4 +39,4 @@ Do not post keys, tokens, private device identifiers or vulnerability details in
 
 This repository is **All Rights Reserved**. Public visibility does not grant a general license to reproduce source code, branding or other project-owned materials. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md). Third-party components, if present, remain subject to their own licenses.
 
-**Genia Soft** is the public project name. No statement in this repository should be understood as identifying a registered legal entity.
+Genia Link is developed by an independent enthusiast under the name **[GeniaPixia](https://github.com/GeniaPixia)**. The project is not presented as a registered company. Legal copyright notices remain as written in [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
